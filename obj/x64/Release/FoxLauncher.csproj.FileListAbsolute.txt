@@ -1,0 +1,24 @@
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\bin\x64\Release\FoxLauncher.exe.config
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\bin\x64\Release\FoxLauncher.exe
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\bin\x64\Release\FoxLauncher.pdb
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\obj\x64\Release\FoxLauncher.csproj.SuggestedBindingRedirects.cache
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\obj\x64\Release\FoxLauncher.Form1.resources
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\obj\x64\Release\FoxLauncher.Properties.Resources.resources
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\obj\x64\Release\FoxLauncher.csproj.GenerateResource.cache
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\obj\x64\Release\FoxLauncher.csproj.CoreCompileInputs.cache
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\obj\x64\Release\FoxLauncher.exe
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\obj\x64\Release\FoxLauncher.pdb
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\obj\x64\Release\FoxLauncher.csproj.AssemblyReference.cache
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\obj\x64\Release\FoxLauncher.ChangeDirectX.resources
+D:\Сурсы с диска\ItsRustDetka\FoxLauncher\FoxLauncher\bin\x64\Release\FoxLauncher.exe.config
+D:\Сурсы с диска\ItsRustDetka\FoxLauncher\FoxLauncher\bin\x64\Release\FoxLauncher.exe
+D:\Сурсы с диска\ItsRustDetka\FoxLauncher\FoxLauncher\bin\x64\Release\FoxLauncher.pdb
+D:\Сурсы с диска\ItsRustDetka\FoxLauncher\FoxLauncher\obj\x64\Release\FoxLauncher.csproj.AssemblyReference.cache
+D:\Сурсы с диска\ItsRustDetka\FoxLauncher\FoxLauncher\obj\x64\Release\FoxLauncher.csproj.SuggestedBindingRedirects.cache
+D:\Сурсы с диска\ItsRustDetka\FoxLauncher\FoxLauncher\obj\x64\Release\FoxLauncher.ChangeDirectX.resources
+D:\Сурсы с диска\ItsRustDetka\FoxLauncher\FoxLauncher\obj\x64\Release\FoxLauncher.Form1.resources
+D:\Сурсы с диска\ItsRustDetka\FoxLauncher\FoxLauncher\obj\x64\Release\FoxLauncher.Properties.Resources.resources
+D:\Сурсы с диска\ItsRustDetka\FoxLauncher\FoxLauncher\obj\x64\Release\FoxLauncher.csproj.GenerateResource.cache
+D:\Сурсы с диска\ItsRustDetka\FoxLauncher\FoxLauncher\obj\x64\Release\FoxLauncher.csproj.CoreCompileInputs.cache
+D:\Сурсы с диска\ItsRustDetka\FoxLauncher\FoxLauncher\obj\x64\Release\FoxLauncher.exe
+D:\Сурсы с диска\ItsRustDetka\FoxLauncher\FoxLauncher\obj\x64\Release\FoxLauncher.pdb

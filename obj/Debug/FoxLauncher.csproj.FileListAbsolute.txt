@@ -1,0 +1,11 @@
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\bin\Debug\FoxLauncher.exe.config
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\bin\Debug\FoxLauncher.exe
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\bin\Debug\FoxLauncher.pdb
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\obj\Debug\FoxLauncher.csproj.AssemblyReference.cache
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\obj\Debug\FoxLauncher.csproj.SuggestedBindingRedirects.cache
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\obj\Debug\FoxLauncher.Form1.resources
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\obj\Debug\FoxLauncher.Properties.Resources.resources
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\obj\Debug\FoxLauncher.csproj.GenerateResource.cache
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\obj\Debug\FoxLauncher.csproj.CoreCompileInputs.cache
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\obj\Debug\FoxLauncher.exe
+C:\ItsRustDetka\FoxLauncher\FoxLauncher\obj\Debug\FoxLauncher.pdb
